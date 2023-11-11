@@ -31,4 +31,4 @@ In this section, users can list down their skills. Each skill is categorized and
 The application also includes a floating print button with a print icon. This feature allows users to print their CV directly from the web page. The print feature opens a print dialog box where users can customize their print settings before printing their CV.
 
 ## Try it out
-You can try out a live version of this [website](https://cv-generator-rceegqf6j-belal-alfutayhs-projects.vercel.app/) 
+You can try out a live version of this [website](https://cv-generator-bilal-ftaieh.vercel.app/) 
